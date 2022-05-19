@@ -31,3 +31,9 @@
      align-items: center;
      
  }
+ .notification.is-primary{
+     color: green;
+ }
+ .notification.is-danger{
+     color: red;
+ }
